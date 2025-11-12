@@ -39,7 +39,7 @@ header li, header a{
 }
 .main-container{
     max-width: 2000px;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     margin-top: 5rem;
     
@@ -52,6 +52,7 @@ header li, header a{
    background-repeat: no-repeat;
    position: relative;
    height: 20rem;
+   border-radius: 2rem;
 }
 .newsletter-section{
     position: absolute;
